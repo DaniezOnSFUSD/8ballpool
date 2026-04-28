@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="00_A.png" source="original">
+    <mtime>1685981496</mtime>
+    <size>99861</size>
+    <md5>c39cb15f89b4e5fb5fac537f5e974e2f</md5>
+    <crc32>b0c2b469</crc32>
+    <sha1>f282676f73fca1e9a82a37a007b97fdb42a80536</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="00_A_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>00_A.png</original>
+    <mtime>1685982420</mtime>
+    <size>5417</size>
+    <md5>b0d9c280cd7fc3a9d433f3359c0ae277</md5>
+    <crc32>0ca15674</crc32>
+    <sha1>745989cdd5da19b56a15ba7bff9fad8589abfe7c</sha1>
+  </file>
+  <file name="00_B.png" source="original">
+    <mtime>1685981500</mtime>
+    <size>232592</size>
+    <md5>ca2dd8dcbac6d783837ea36a07e7d248</md5>
+    <crc32>e0bfcab6</crc32>
+    <sha1>d3aa16d3b9d1bbe56ff70597c81a85c2a526677a</sha1>
+    <format>Emulator Screenshot</format>
+  </file>
+  <file name="00_B_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>00_B.png</original>
+    <mtime>1685982434</mtime>
+    <size>8214</size>
+    <md5>0f47db713d9d61c3d8f96d64653cf475</md5>
+    <crc32>d33fb592</crc32>
+    <sha1>c045afe8f349d9902b7cb138e3f8f49090838474</sha1>
+  </file>
+  <file name="00_coverscreenshot.png" source="original">
+    <mtime>1690346568</mtime>
+    <size>223937</size>
+    <md5>ac76d3334c8d6aac148908de0d9888bb</md5>
+    <crc32>49ff6b23</crc32>
+    <sha1>595a59c61158caf6f6bc7cb1bd8c1539b2c27804</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="8_ball_archive.torrent" source="metadata">
+    <btih>5e2bf2e720692a5c8b814d5f4482a441e0d5beac</btih>
+    <mtime>1690506819</mtime>
+    <size>2988</size>
+    <md5>e7971b8d3be3eb05132dddcb990e7d57</md5>
+    <crc32>28b151e9</crc32>
+    <sha1>80e5b5a1c892be4e3dca3a9fe4c06f93f7e7bc0d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="8_ball_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>81848c533e11002c0eb38963ab33ffd3</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="8_ball_meta.sqlite" source="original">
+    <mtime>1690346579</mtime>
+    <size>36864</size>
+    <md5>d68b4332e21e6f84dc91166e44b54c82</md5>
+    <crc32>f3809212</crc32>
+    <sha1>97fdda69c6ead6ec954fbf4e4860cedf51de5241</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="8_ball_meta.xml" source="original">
+    <mtime>1690506816</mtime>
+    <size>1240</size>
+    <md5>860a7d3803ac42818fc4cc869055018a</md5>
+    <crc32>bdc850fd</crc32>
+    <sha1>8a15a9b3711bb01a9f921986a5538ab59232ab3b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="8ball.swf" source="original">
+    <mtime>1685981472</mtime>
+    <size>758903</size>
+    <md5>daf44f5fbf15f9a112e2dc4f377d7577</md5>
+    <crc32>5fe5a201</crc32>
+    <sha1>344eec8e407502187811bd493325e0503e9fa1cc</sha1>
+    <format>Shockwave Flash</format>
+    <length>6.89</length>
+    <width>575</width>
+    <height>435</height>
+    <viruscheck>1685981861</viruscheck>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1685981712</mtime>
+    <size>5241</size>
+    <md5>8a908424fa42fe168eae6fcfe0a8a458</md5>
+    <crc32>ef4da9cd</crc32>
+    <sha1>15bbfeb57824597c10fefc30669a2c101fc2bc43</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="screenshot_00.png" source="original">
+    <mtime>1690346571</mtime>
+    <size>223937</size>
+    <md5>ac76d3334c8d6aac148908de0d9888bb</md5>
+    <crc32>49ff6b23</crc32>
+    <sha1>595a59c61158caf6f6bc7cb1bd8c1539b2c27804</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_01.png" source="original">
+    <mtime>1690346572</mtime>
+    <size>2799</size>
+    <md5>0ac21cdb476039ba0d6066dfa5ae0e33</md5>
+    <crc32>d6e38278</crc32>
+    <sha1>30f2171bc8619c42a73e643934ae74bc22afb019</sha1>
+    <format>PNG</format>
+  </file>
+</files>
